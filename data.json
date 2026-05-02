@@ -1,0 +1,23 @@
+{
+  "users": {
+    "admin": "admin123"
+  },
+  "records": [
+    {
+      "id": 1,
+      "type": "income",
+      "amount": 200.0,
+      "category": "投资收益",
+      "date": "2026-04-29",
+      "note": "股票盈利"
+    },
+    {
+      "id": 2,
+      "type": "expense",
+      "amount": 30.0,
+      "category": "餐饮",
+      "date": "2026-04-29",
+      "note": ""
+    }
+  ]
+}
